@@ -32,7 +32,7 @@ class Person
         this.gen = gen;
     }
 }
-class Student extends Person
+class Student 
 {
     int idNum,GPA;
     void setIdNum(int idNum)
